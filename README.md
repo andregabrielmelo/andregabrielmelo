@@ -1,19 +1,27 @@
-# Olá, eu sou André Melo 👋
+# Hello, I am André Melo 👋
 
 **`Computer science student, looking for opportunities!`**
+
+<div>
+<details>
+  <summary>More about me</summary>
 
 - 🔭 I’m currently working on improving my Web Development skills
 - 🌱 I’m learning react and typescript
 - 💬 In my free time, i generally play games and read
 
+</details>
+  
+</p>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andre-gabriel-melo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andregabrielmelo@gmail.com)
 
-### 🛠 Language and tools
+### 🛠 Languages and tools
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,css,flask,python"/>
-    <img src="https://skillicons.dev/icons?i=r,c,cpp,java,mysql,vscode,github,figma,git"/>
+    <img src="https://skillicons.dev/icons?i=r,c,cpp,java,mysql"/>
 </div>
 
 ### 📊 Stats
