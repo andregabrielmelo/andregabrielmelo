@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on improving my Web Development skills
 - 🌱 I’m learning react and typescript
-- 💬 In my free time, i generally play games and read
+- 💬 In my free time, i generally play games like Factorio and Age Of Empires II. I also like to read mangas, manhwas, novels and books
 
 </details>
   
