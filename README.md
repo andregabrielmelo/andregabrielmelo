@@ -27,7 +27,7 @@
 ### 📊 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats-andregabrielmelos-projects.vercel.app/?username=andregabrielmelo&show_icons=true&theme=dark" />
+  <img height=175 align="center" src="https://github-readme-stats-andregabrielmelos-projects.vercel.app/api?username=andregabrielmelo&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregabrielmelo&theme=dark&layout=compact" />
