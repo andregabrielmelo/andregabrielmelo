@@ -23,9 +23,9 @@
     <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,javascript,html,css,flask,python,mysql"/>
 </div>
 <details>
-  <summary style="padding: 10px;">Less used language and tools</summary>
+  <summary>Less used language and tools</summary>
   
-  <img src="https://skillicons.dev/icons?i=r,c,cpp,java,mysql"/>
+  <img style="padding-top: 10px;" src="https://skillicons.dev/icons?i=r,c,cpp,java,mysql"/>
 </details>
 
 ### 📊 Stats
