@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,javascript,html,css,flask,python,mysql"/>
 </div>
 <details>
-  <summary>Less used language and tools</summary>
+  <summary style="padding: 10px;">Less used language and tools</summary>
   
   <img src="https://skillicons.dev/icons?i=r,c,cpp,java,mysql"/>
 </details>
