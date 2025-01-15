@@ -21,11 +21,11 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,javascript,html,css,flask,python,mysql"/>
-    <details>
-      <summary>Less used language and tools</summary>
-      <img src="https://skillicons.dev/icons?i=r,c,cpp,java,mysql"/>
-    </details>
 </div>
+<details>
+  <summary>Less used language and tools</summary>
+  <img src="https://skillicons.dev/icons?i=r,c,cpp,java,mysql"/>
+</details>
 
 ### 📊 Stats
 
