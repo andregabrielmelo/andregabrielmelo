@@ -24,8 +24,8 @@
 </div>
 <details>
   <summary>Less used language and tools</summary>
-  
-  <img style="padding-top: 10px;" src="https://skillicons.dev/icons?i=r,c,cpp,java,mysql" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=r,c,cpp,java,mysql" />
 </details>
 
 
