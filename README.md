@@ -20,8 +20,7 @@
 ### 🛠 Languages and tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,css,flask,python"/>
-    <img src="https://skillicons.dev/icons?i=r,c,cpp,java,mysql"/>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,javascript,html,css,flask,python,mysql"/>
 </div>
 
 ### 📊 Stats
