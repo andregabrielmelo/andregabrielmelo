@@ -37,6 +37,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregabrielmelo&theme=dark&layout=compact" />
 </a>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregabrielmelo&show_icons=true)
